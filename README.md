@@ -19,18 +19,24 @@ Spring Boot 기반의 백엔드 개발을 중심으로 웹 서비스를 개발�
 ### 상상스토리 | 웹 개발자
 📅 2024.07 ~ 2026.06
 
-- Spring Boot 기반 웹 서비스 개발 및 유지보수
+- Spring 기반 웹 서비스 개발 및 유지보수
 - MySQL, Oracle Database 설계 및 운영
-- AWS 및 Linux 서버 환경 운영
+- On-Premises Linux 서버 환경 운영
 - Docker, Nginx를 활용한 서비스 배포
 
 ---
 
 ## 📜 자격증
 
-[![AWS SAA-C03](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20–%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/b91f712c-d1fd-4293-a1db-dacd9209fa4b/public_url)
+<div align="center">
 
-> AWS Certified Solutions Architect – Associate (SAA-C03)
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/b91f712c-d1fd-4293-a1db-dacd9209fa4b/public_url)
+
+**AWS Certified Solutions Architect – Associate (SAA-C03)**
+
+🔗 **[Credly에서 자격증 확인하기](https://www.credly.com/badges/b91f712c-d1fd-4293-a1db-dacd9209fa4b/public_url)**
+
+</div>
 
 ---
 

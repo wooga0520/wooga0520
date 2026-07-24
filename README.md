@@ -10,6 +10,12 @@
 🦁 **LIKELION 11th, Backend Team Manage**  
 🦁 **LIKELION 12th, Frontend Team Manage**
 
+
+## Experience
+
+ **상상스토리 웹개발자 (2024.07 ~ 2026.06)**  
+
+
 ---
 
 ## 💪 Tech Stack

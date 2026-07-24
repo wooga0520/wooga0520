@@ -26,13 +26,11 @@ Spring Boot 기반의 백엔드 개발을 중심으로 웹 서비스를 개발�
 
 ---
 
-# 📜 자격증
+## 📜 자격증
 
-[![AWS SAA](https://img.shields.io/badge/AWS-SAA--C03-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/b91f712c-d1fd-4293-a1db-dacd9209fa4b/public_url)
+[![AWS SAA-C03](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20–%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/b91f712c-d1fd-4293-a1db-dacd9209fa4b/public_url)
 
-**AWS Certified Solutions Architect – Associate (SAA-C03)**
-
-🔗 https://www.credly.com/badges/b91f712c-d1fd-4293-a1db-dacd9209fa4b/public_url
+> AWS Certified Solutions Architect – Associate (SAA-C03)
 
 ---
 

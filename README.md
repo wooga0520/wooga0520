@@ -117,5 +117,5 @@ Spring Boot 기반의 백엔드 개발을 중심으로 웹 서비스를 개발�
 
 # 📫 Contact
 
-- 📧 Email : your@email.com
+- 📧 Email : aking0520@naver.com
 - 🌐 Portfolio : Coming Soon
